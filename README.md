@@ -50,14 +50,20 @@ The result is displayed with bounding boxes and density label.
 📈 Sample Output
 
 [✓] Frame: 152
+
 [✓] Detected Vehicles: 12
+
 [✓] Density Level: MEDIUM
 
 🧪 Model
 You can use any pre-trained object detection model like:
+
 YOLOv5
+
 SSD with MobileNet
+
 Faster R-CNN
+
 Modify vehicle_detection.py to plug in your model.
 
 🤝 Contributing
