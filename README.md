@@ -1,17 +1,27 @@
 🚗 Vehicle Density Prediction
+
 📌 Overview
 This project uses computer vision and deep learning to predict vehicle density in surveillance footage or live video streams. It can detect and count vehicles in real-time and estimate how congested a road is based on the number of vehicles per area.
+
 This kind of system can help in:
+
 Smart traffic control
+
 Congestion monitoring
+
 Urban planning
+
 Emergency route management
 
 🎯 Key Features
 Real-time vehicle detection from video
+
 Density classification: Low / Medium / High
+
 Visual display with bounding boxes
+
 Frame-by-frame vehicle counting
+
 Easy to run and adapt for any video feed
 
 🛠️ Tech Stack
