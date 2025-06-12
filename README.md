@@ -66,6 +66,6 @@ Faster R-CNN
 
 Modify vehicle_detection.py to plug in your model.
 
-🤝 Contributing
+🤝 
 Have suggestions or improvements? Fork the repo and submit a pull request!
 
